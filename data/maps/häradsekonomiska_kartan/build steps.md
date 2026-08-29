@@ -1,6 +1,6 @@
 # Use the following steps to generate tiles:
 
-1. Download [map TIF](ftp://download-opendata.lantmateriet.se/Haradsekonomiska_kartan/H%C3%A4radsekonomiska_Kartan_S%C3%B6dra/J112-43-25/112_43-25_0.tif)
+1. Download map TIF from `ftp://download-opendata.lantmateriet.se/Haradsekonomiska_kartan/H%C3%A4radsekonomiska_Kartan_S%C3%B6dra/J112-43-25/112_43-25_0.tif`
 2. Use QGIS to output a georeferenced TIF called map_3006.tif
     - Use the points in `J112-43-25112_43-25_0.tif.points`
     - Bicubic rendering
